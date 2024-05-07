@@ -4110,9 +4110,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.NET\\Blogge Web\\BloggieMVC\\BloggieMVC\\BloggieMVC.csproj",
-      "projectName": "BloggieMVC",
-      "projectPath": "F:\\.NET\\Blogge Web\\BloggieMVC\\BloggieMVC\\BloggieMVC.csproj",
+      "projectUniqueName": "F:\\.NET\\Blogge Web\\BloggieMVC\\BloggieMVC\\Bloggie.Web.csproj",
+      "projectName": "Bloggie.Web",
+      "projectPath": "F:\\.NET\\Blogge Web\\BloggieMVC\\BloggieMVC\\Bloggie.Web.csproj",
       "packagesPath": "C:\\Users\\mubta\\.nuget\\packages\\",
       "outputPath": "F:\\.NET\\Blogge Web\\BloggieMVC\\BloggieMVC\\obj\\",
       "projectStyle": "PackageReference",
