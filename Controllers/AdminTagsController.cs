@@ -21,12 +21,14 @@ namespace BloggieMVC.Controllers
         {
             return View();
         }
+        //[HttpGet]
+        //[ActionContext]
 
         [HttpPost]
         [ActionName("Add")]
         public IActionResult Add(AddTagRequest addTagRequest)
         {
-            //Mapping Add Tag Reqst
+            //Mapping Add Tag Request 
             var tag = new Tag
             {
                 Name = addTagRequest.Name,
