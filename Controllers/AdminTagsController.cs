@@ -23,6 +23,8 @@ namespace BloggieMVC.Controllers
         }
         //[HttpGet]
         //[ActionContext]
+       /* public IActionResult Edit() {
+        var tag =new Tag }*/
 
         [HttpPost]
         [ActionName("Add")]
